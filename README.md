@@ -5,7 +5,7 @@ Implementation of the paper "Video Frame Interpolation by Plug-and-Play Deep Loc
 
 [Theano](http://deeplearning.net/software/theano/)
 
-[neuralnet](https://github.com/justanhduc/neuralnet)
+[neuralnet](https://github.com/justanhduc/neuralnet/tree/v1)
 
 ## How to run
 
