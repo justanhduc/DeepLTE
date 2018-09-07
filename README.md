@@ -24,3 +24,7 @@ python interpolate.py DeepLTE.config (--gpu 0)
 ## Results
 
 To be available.
+
+## License
+
+MIT license
