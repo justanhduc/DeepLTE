@@ -23,7 +23,22 @@ python interpolate.py DeepLTE.config (--gpu 0)
 
 ## Results
 
-To be available.
+UCF results
+
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/21.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/31.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/71.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/81.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/421.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/1521.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/1641.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/2021.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/1821.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/3091.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/3511.gif)
+![](https://github.com/justanhduc/DeepLTE/blob/master/results/3761.gif)
+
+To be updated.
 
 ## License
 
